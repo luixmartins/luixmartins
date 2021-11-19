@@ -8,7 +8,10 @@
    Passionate about programming and Data Science. I am currently focused on studying Machine Learning, Deep Learning and Data Science solutions. In recent projects I have been working with web scraping and text classification. 
 </p>
 
-<h3>Technologies</h3>
+<br>
+
+<h2>Technologies</h2>
+
 <p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -22,7 +25,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=luixmartins&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=luixmartins&theme=dark&hide_border=true" width = 400>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luixmartins&layout=compact&langs_count=8&theme=dark&hide_border=true" width = 400/>
 </p>
 
 <br>
