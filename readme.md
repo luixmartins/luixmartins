@@ -36,6 +36,7 @@
    <a href="https://www.facebook.com/luizhenriqued.martins/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
    <a href="https://www.instagram.com/luixmartins"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
    <a href="https://www.linkedin.com/in/luiz-henrique-dutra-martins-a31713193/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://twitter.com/luixmartinz"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 </p>
 
 <p  align="center">
