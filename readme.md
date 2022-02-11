@@ -1,16 +1,13 @@
-<h1 align="center">Hi, I'm Luiz Martins!</h1>
-<br>
-
-<h2>About Me</h2>
+<h2>Sobre</h2>
 <p>
-   I'm a student of the Information Systems course at the Minas Gerais State University. I currently work as an intern at <b><i>NUPSI (Information Systems Practices Center)</i></b> conducting research in artificial intelligence. 
+   Estudante do curso de Sistemas de Informação na Universidade do Estado de Minas Gerais e atuando como estagiário no <b><i>NUPSI (Núcleo de práticas de Sistemas de Informação)</i></b> conduzindo pesquisas em alguns campos da inteligência artificial, dentre elas o processamento de linguagem natural, análise preditiva de series temporais, coleta automatizada de dados, entre outras. 
    <br>
-   Passionate about programming and Data Science. I am currently focused on studying Machine Learning, Deep Learning and Data Science solutions. In recent projects I have been working with web scraping and text classification. 
+   Aos 25 anos apaixonado por programação e soluções em ciência de dados. Atualmente buscando me aprofundar nos campos de processamento de linguagem natural e redes neurais. Em projetos recentes, trabalhei com coleta massiva de dados (web scraping), clasficação de textos e análise de sentimentos. 
 </p>
 
 <br>
 
-<h2>Technologies</h2>
+<h2>Tecnologias</h2>
 
 <p>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
@@ -31,7 +28,7 @@
 
 <br>
 
-<h2>Contact Me</h2>
+<h2>Fale comigo</h2>
 
 <p align="center">
    <a href="mailto:luizmartins.uemg@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width=80 alt="email"/></a>
