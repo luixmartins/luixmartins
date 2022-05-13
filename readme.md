@@ -3,7 +3,7 @@
    Estudante do curso de Sistemas de Informação na Universidade do Estado de Minas Gerais e atuando como estagiário no <b><i>NUPSI (Núcleo de práticas de Sistemas de Informação)</i></b> conduzindo pesquisas e desenvolvimento em inteligência artificial, dentre elas o processamento de linguagem natural, análise preditiva de series temporais, coleta automatizada de dados, entre outras. 
    <br>
    
-   Aos 25 anos, apaixonado por programação e soluções em ciência de dados. Atualmente buscando me aprofundar nos campos de processamento de linguagem natural e redes neurais. Em projetos recentes, trabalhei com coleta massiva de dados (web scraping), clasficação de textos e análise de sentimentos. 
+   Aos 25 anos, apaixonado por programação e soluções em ciência de dados. Atualmente buscando me aprofundar nos campos de processamento de linguagem natural e redes neurais. Em projetos recentes, trabalhei com coleta massiva de dados (web scraping), classificação de textos e análise de sentimentos. 
 </p>
 
 <br>
