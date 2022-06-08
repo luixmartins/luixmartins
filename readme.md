@@ -13,8 +13,6 @@
     
 </p>
 
-<br>
-
 <h2>Technologies</h2>
 
 <p>
