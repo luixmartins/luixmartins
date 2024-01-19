@@ -1,28 +1,36 @@
-<h2>About</h2>
-<p> 
-    - I'm from Frutal, Minas Gerais
-    <br>
-    - Student at Minas Gerais State University, intern at NUPSI
-   <br>
-    - AI Researcher 
-    <br>
-    - Python Developer 
-    <br>
-    - Machine Learning, Deep Learning, Natural Language Processing and Time Series Forecasting
-    <br>
-    
+<h2>Sobre eu</h2>
+
+
+* Frutal, MG 
+* Bacharel em Sistemas de Informação pela Universidade do Estado de Minas Gerais (UEMG)
+* Desenvolvedor Python
+* Apaixonado por Tecnologia 
+
+<p>
+  Durante a graduação, trabalhei principalmente com projetos em ciência de dados, com foco no desenvolvimento de modelos preditivos em diversas áreas do conhecimento. Além disso, participei de trabalhos de Iniciação Científica aplicando conceitos de processamento de linguagem natural e aprendizado de máquina. 
+  <br>
+
+  Possuo proficiência com a linguagem de programação Python, Bancos de Dados relacionais (MySQL) e não relacionais (MongoDB). 
+  Atualmente, estou aprofundando meus estudos em desenvolvimento web com foco no framework Django. 
+
+  <br>
+
+   
+
 </p>
 
-<h2>Technologies</h2>
+<h2>Tecnologias</h2>
 
 <p>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"></code>
+
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
 </p>
 
 <br>
@@ -34,11 +42,10 @@
 
 <br>
 
-<h2>Contact</h2>
+<h2>Contato</h2>
 
 <p align="center">
    <a href="mailto:luizmartins.uemg@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width=70 alt="email"/></a>
-   <a href="https://www.facebook.com/luizhenriqued.martins/"><img src="https://img.icons8.com/color/96/000000/facebook.png" width=70  alt="facebook"/></a>
    <a href="https://www.instagram.com/luixmartins"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width=70  alt="instagram"/></a>
    <a href="https://www.linkedin.com/in/luiz-henrique-dutra-martins-a31713193/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width=70  alt="linkedin"/></a>
    <a href="https://twitter.com/luixmartinz"><img src="https://img.icons8.com/color/96/000000/twitter.png" width=70 alt="twitter"/></a>
