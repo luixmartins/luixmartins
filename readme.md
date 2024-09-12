@@ -1,23 +1,8 @@
 <h2>Sobre eu</h2>
 
-
 * Frutal, MG 
 * Bacharel em Sistemas de Informação pela Universidade do Estado de Minas Gerais (UEMG)
-* Desenvolvedor Python
-* Apaixonado por Tecnologia 
-
-<p>
-  Durante a graduação, trabalhei principalmente com projetos em ciência de dados, com foco no desenvolvimento de modelos preditivos em diversas áreas do conhecimento. Além disso, participei de trabalhos de Iniciação Científica aplicando conceitos de processamento de linguagem natural e aprendizado de máquina. 
-  <br>
-
-  Possuo proficiência com a linguagem de programação Python, Bancos de Dados relacionais (MySQL) e não relacionais (MongoDB). 
-  Atualmente, estou aprofundando meus estudos em desenvolvimento web com foco no framework Django. 
-
-  <br>
-
-   
-
-</p>
+* Desenvolvedor backend 
 
 <h2>Tecnologias</h2>
 
